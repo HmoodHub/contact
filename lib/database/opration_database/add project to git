@@ -1,0 +1,5 @@
+1. git init
+// لفحص حالة المروع على git نكتب هاد الكوماند
+2. git status
+// الان تظهر الملفات التي عدلنا عليها لاضافتها بنكتب git add (file name) او git add .
+3. git add name file /or/ git add . 
